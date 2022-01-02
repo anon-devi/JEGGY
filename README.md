@@ -1,0 +1,2 @@
+# JEGGY
+discord bot 
