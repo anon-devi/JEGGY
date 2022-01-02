@@ -321,4 +321,6 @@ async def poll(ctx, question, option1=None, option2=None):
 
 
 
-client.run('ODI1NTc2MjQyNTMwNjE1MzI2.YF_7yg.wZ3HS8biAmHlF7a8QUUPT12Gruo')
+if __name__ == '__main__':
+    import config
+    client.run(config.token)
